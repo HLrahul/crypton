@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Revenue",
+    "percentile": "10%",
+    "increase": true,
+    "amount": "$2,030",
+    "image": "cart.png"
+  },
+  {
+    "title": "Sales",
+    "percentile": "5%",
+    "increase": false,
+    "amount": "$1,500",
+    "image": "dine.png"
+  },
+  {
+    "title": "Profit",
+    "percentile": "15%",
+    "increase": true,
+    "amount": "$3,200",
+    "image": "revenue.png"
+  }
+]
